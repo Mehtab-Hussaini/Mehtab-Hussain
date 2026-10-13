@@ -1,19 +1,49 @@
-# Mehtab-Hussain
-## 🛠️ Tech Stack & Cyber Tools
+<div align="center">
 
-### 💻 Languages & Development
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# Mehtab Hussain
 
-### 🛡️ Cyber Security Operations
-![Wireshark](https://img.shields.io/badge/Wireshark-167DKB?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%234F4F4F.svg?style=for-the-badge&logo=security&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=f55d3e)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-212121?style=for-the-badge&logo=virtualbox&logoColor=2272a4)
+### Cyber Security Student | Aspiring SOC Analyst
 
-### 📂 Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Building practical skills in security monitoring, threat detection, and defensive security.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+### About Me
+
+- 🎓 BS Cyber Security Student at Lahore Leads University.
+- 🛡️ Focused on Security Operations (SOC) and defensive security.
+- 🐧 Working with Ubuntu Linux and Wazuh SIEM.
+- 🔎 Exploring log analysis, detection rules, and incident investigation.
+- 💻 Learning Python for security automation.
+- 🎯 Career goal: SOC Analyst → Cloud Security.
+
+### Technical Skills
+
+**Security:** Wazuh, SIEM Fundamentals, Log Analysis  
+**Operating Systems:** Ubuntu Linux, Windows Fundamentals  
+**Networking:** TCP/IP, DNS, Common Protocols  
+**Programming:** Python, C++  
+**Tools:** Git, GitHub, Linux CLI
+
+### Projects & Labs
+
+- **Wazuh Security Monitoring Lab** — Endpoint log collection, security monitoring, and custom detection rules.
+- **Linux Security Labs** — Linux commands, authentication logs, and system security.
+- **Cybersecurity Learning Notes** — Documenting security concepts and practical exercises.
+
+### Currently Learning
+
+CompTIA Security+ • SOC Operations • Network Security • Python Automation
+
+---
+
+<div align="center">
+
+*Learn. Build. Detect. Defend.*
+
+</div>
