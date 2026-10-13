@@ -62,8 +62,8 @@ Networking • Defensive security • Practical exercises
 
 ### 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehtab-Hussaini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mehtab-hussain-156773438/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdVWyd2djR3ud3joiR6mwpQ%3D%3D))
 
 ---
 
